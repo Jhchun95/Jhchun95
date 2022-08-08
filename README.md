@@ -1,12 +1,15 @@
-👋 Hi there! I'm not a developer yet. I'm just a person who studies programming languages.
-Currently, I'm interested in statistics and I'm studying python, R languages.
+👋 Hi there! I'm not a developer yet. I'm just a person who studies programming languages.  
+😄 Currently, I'm interested in statistics and I'm studying python, R languages.
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <!--
 **Jhchun95/Jhchun95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://cocoon1787.tistory.com/689
 
 Here are some ideas to get you started:
 
