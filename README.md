@@ -9,9 +9,8 @@
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></br>
 
-🔭  Github Stats  🔭 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhchun95&show_icons=true&theme=radical)
+🔭  Github Stats  🔭  
+</br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhchun95&show_icons=true&theme=radical)
 
 
 
